@@ -2,7 +2,7 @@
 
 ## Usage
 
-```
+```bash
 touch functions/.env
 # add
 OPENAI_API_KEY='sk-...'
